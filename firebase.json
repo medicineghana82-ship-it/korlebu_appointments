@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "korlebu-appointments",
+          "appId": "1:795940453759:android:67d4fbf7de9f9e2dd76e4a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "korlebu-appointments",
+          "configurations": {
+            "android": "1:795940453759:android:67d4fbf7de9f9e2dd76e4a",
+            "ios": "1:795940453759:ios:34491c598a609f0cd76e4a",
+            "macos": "1:795940453759:ios:34491c598a609f0cd76e4a",
+            "web": "1:795940453759:web:a79dfaed77c80b28d76e4a",
+            "windows": "1:795940453759:web:41a1a8eb2d684183d76e4a"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

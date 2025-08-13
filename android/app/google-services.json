@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795940453759",
+    "project_id": "korlebu-appointments",
+    "storage_bucket": "korlebu-appointments.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795940453759:android:67d4fbf7de9f9e2dd76e4a",
+        "android_client_info": {
+          "package_name": "com.example.korlebu_appointments"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFTig-tR3B-dUBvYI2ANtc3BbAs88kITg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
