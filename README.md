@@ -1,16 +1,23 @@
-# korlebu_appointments
+# KorleBu Appointments
 
-A new Flutter project.
+KorleBu Appointments is a mobile and web app for booking and managing hospital appointments at Korle Bu Teaching Hospital.
 
-## Getting Started
+## Features
+- Patient registration & login
+- Doctor registration & login
+- Book, approve, and reject appointments
+- Human-readable appointment dates
+- Universal background and branding across all pages
+- Web & APK builds
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- **Frontend:** Flutter (Web + Android)
+- **Backend:** Firebase Authentication & Firestore
+- **Hosting:** Firebase Hosting
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/medicineghana82-ship-it/korlebu_appointments.git
